@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
+![GitHub Followers](https://img.shields.io/github/followers/MarceloHerce?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/MarceloHerce?style=social)
+
+[![Hola](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloHerce&theme=dark)]()
+[![Hola](https://github-readme-stats.vercel.app/api?username=MarceloHerce&theme=dark)]()
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloherce&label=Profile%20views&color=0e75b6&style=flat" alt="marceloherce" /> </p>
 
 
