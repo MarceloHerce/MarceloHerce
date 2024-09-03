@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
+After graduating in culinary arts and working in the industry for a while, I decided to learn programming. I started with a Python course and created several websites using WordPress for relatives. Following this, I enrolled in a degree program in web application development to professionally pursue programming and further enhance my knowledge. I discovered that I'm interested in backend development, including system architecture and server-side operations.
+
 ![GitHub Followers](https://img.shields.io/github/followers/MarceloHerce?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/MarceloHerce?style=social)
 
